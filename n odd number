@@ -1,0 +1,10 @@
+s=int(input('enter start number'))
+e=int(input('enter end number'))
+for i in range (s,e+1)
+if i%2==0
+ Continue
+  Print(i,end=' ')
+Output:
+enter start number 7
+enter end number 17
+7 9 11 13 15 17
